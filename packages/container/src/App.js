@@ -1,4 +1,4 @@
-//Test new VM
+//Test without src dir
 import React from 'react';
 import MarketingApp from './components/MarketingApp';
 export default () => {
